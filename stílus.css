@@ -1,0 +1,54 @@
+/*h1 {
+    color: blue;
+}
+
+p {
+    background-color: hsla(108,50%,35%,0.5);
+}
+
+a {
+    text-decoration: underline wavy violet;
+}
+
+
+table, th, td {
+    border: 1px solid green;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 25px;
+    text-align: center;
+}
+
+tr:nth-child(odd) {
+    background-color: aquamarine;
+}
+
+
+#harmadik {
+    color: rgb(233, 33, 75)
+}
+
+.kiemel {
+    background-color: #af348d;
+}
+
+.jobbrazar {
+    text-align: right;
+}
+*/
+
+.elso {
+    width: 50%;
+    background-color: aqua;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: arial;
+    float: left;
+    margin: 10px;
+}
